@@ -13,18 +13,26 @@ function Home() {
         />
         <div className="home_row">
           <Product
-            id="12321341"
-            title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
-            price={11.96}
+            id="12321009"
+            title="cuderia Ferrari Forza Evo Analog Black Dial Men's Watch-0830902"
+            price={349.96}
             rating={5}
-            image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
+            image="https://m.media-amazon.com/images/I/71pwVPqXxsL._UY879_.jpg"
           />
+                   <Product
+            id="12434099"
+            title="Nike Jordan Stay Loyal 2 Mens Shoes"
+            price={749}
+            rating={4}
+            image="https://m.media-amazon.com/images/I/416PrcWM4EL._UY535_.jpg"
+          />
+
           <Product
             id="49538094"
-            title="Kenwood kMix Stand Mixer for Baking, Stylish Kitchen Mixer with K-beater, Dough Hook and Whisk, 5 Litre Glass Bowl"
+            title="Safari Pentagon Polypropylene 55 cms Cyan Hardsided Cabin Luggage, 4 Wheel Trolley Bag, Travel Suitcase for Men and Women"
             price={239.0}
             rating={4}
-            image="https://images-na.ssl-images-amazon.com/images/I/81O%2BGNdkzKL._AC_SX450_.jpg"
+            image="https://m.media-amazon.com/images/I/514xUT1xYVL._UX679_.jpg"
           />
         </div>
 
@@ -59,6 +67,20 @@ function Home() {
             price={1094.98}
             rating={4}
             image="https://images-na.ssl-images-amazon.com/images/I/6125mFrzr6L._AC_SX355_.jpg"
+          />
+          <Product
+                   id= "787899805"
+                   title= "Play station game pad"
+                   image= "https://images-na.ssl-images-amazon.com/images/G/01/amazonglobal/images/email/asins/DURM-2B638E86650FFF18._V531815327_.jpg"
+                   price= {19.96}
+                   rating= {5}
+          />
+        <Product
+            id="12321341"
+            title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
+            price={11.96}
+            rating={5}
+            image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
           />
         </div>
       </div>
