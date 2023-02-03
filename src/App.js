@@ -65,7 +65,7 @@ function App() {
             element={
               <Fragment>
                 <Header />
-                <Home />}
+                <Home />
               </Fragment>
             }
           />
